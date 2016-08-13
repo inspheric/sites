@@ -1,8 +1,5 @@
 {
     "name": "inspheric/sites",
-    "require": {
-        "inspheric/support": "dev-master"
-    },
     "autoload": {
         "psr-4": {
             "Inspheric\\Sites\\": "src/"
